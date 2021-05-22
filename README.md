@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev kumar</h1>
-<h3 align="center">A passionate coder and game developer from India</h3>
+<h3 align="center">A passionate coder and game developer, Join Game-DEV-Society for your contributions in my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar2021024&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar2021024" /> </p>
 
