@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dev1174kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dev1174kumar" height="30" width="40" /></a>
-<a href="https://fb.com/dev kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="dev kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev1174kumar" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG38.png&imgrefurl=https%3A%2F%2Fpngimg.com%2Fimage%2F55040&tbnid=wq5kM1lPfbuDaM&vet=12ahUKEwjah7rE2oLxAhXo0XMBHUxBDcQQMygHegUIARDYAQ..i&docid=J23zPmaml8MkNM&w=640&h=640&q=linkedin%20logo&ved=2ahUKEwjah7rE2oLxAhXo0XMBHUxBDcQQMygHegUIARDYAQ" alt="dev1174kumar" height="30" width="40" /></a>
+<a href="https://fb.com/dev kumar" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fd5%2F18%2Fec%2Fd518eceea19f4b1a2ee032ddc634dd7d.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F751186412834056132%2F&tbnid=7tXs1R-QQmZe9M&vet=12ahUKEwjJ4fHV2oLxAhV1XnwKHeyRA5kQMygCegUIARC_AQ..i&docid=eZiULjiWMGnkSM&w=640&h=640&q=facebook%20logo%20logo&ved=2ahUKEwjJ4fHV2oLxAhV1XnwKHeyRA5kQMygCegUIARC_AQ" alt="dev kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
