@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar2021024" alt="devkumar2021024" /></a> </p>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently working on my webpage "https://devkumar2021024.github.io/dev/"
 
 - 👨‍💻 All of my projects are available at [Devkumar2021024](Devkumar2021024)
 
