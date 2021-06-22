@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on my webpage "https://devkumar2021024.github.io/dev/"
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devkumar2021024/Devkumar2021024](Devkumar2021024)
+- 👨‍💻 All of my projects are available at [https://github.com/Devkumar2021024/Devkumar2021024]
 
 - 📫 How to reach me **kumarravi91158@gmail.com**
 
