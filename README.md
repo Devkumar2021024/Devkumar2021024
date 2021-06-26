@@ -1,3 +1,11 @@
+<div align = "center"> 
+
+  ### Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">   
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) </div>
+
+<div align = "center"> 
+  
+  ### About Me: </div>
 <h1 align="center">Hi, I'm Dev kumar ,<"LEARNING NEW THINGS EVERYDAY\n">;</h1>
 <h3 align="center">A passionate coder and a learning game developer.</h3>
 
