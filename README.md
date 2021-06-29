@@ -7,8 +7,8 @@
 
 <div align = "center"> 
   
-  ### HI EVERYONE: </div>
-<h1 align="center">Hi, I'm Dev kumar ,<"LEARNING NEW THINGS EVERYDAY\n">;</h1>
+  ### 𝐻𝑒𝓁𝓁𝑜 𝐸𝓋𝑒𝓇𝓎𝑜𝓃𝑒: </div>
+<h1 align="center">𝐇𝐢, I'm 𝓓𝓮𝓿 ,<"𝓦𝓮𝓵𝓬𝓸𝓶𝓮 to the 🅾🆃🅷🅴🆁 🆂🅸🅳🅴\n">;</h1>
 <h3 align="center">A passionate coder and a learning game developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar2021024&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar2021024" /> </p>
