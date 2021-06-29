@@ -1,6 +1,6 @@
 <div align = "center"> 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="480px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="470px"/>
    
    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="39px">   
 
@@ -9,7 +9,7 @@
   
   ### 𝐻𝑒𝓁𝓁𝑜 𝐸𝓋𝑒𝓇𝓎𝑜𝓃𝑒: </div>
 <h1 align="center">𝐇𝐢, I'm 𝓓𝓮𝓿 ,<"𝓦𝓮𝓵𝓬𝓸𝓶𝓮 to the 🅾🆃🅷🅴🆁 🆂🅸🅳🅴\n">;</h1>
-<h3 align="center">A passionate coder and a learning game developer.</h3>
+<h3 align="center"> 𝘼 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙘𝙤𝙙𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar2021024&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar2021024" /> </p>
 
