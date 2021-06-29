@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="480px"/>
    
-   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">   
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="39px">   
 
 
 <div align = "center"> 
   
-  ### About Me: </div>
+  ### HI EVERYONE: </div>
 <h1 align="center">Hi, I'm Dev kumar ,<"LEARNING NEW THINGS EVERYDAY\n">;</h1>
 <h3 align="center">A passionate coder and a learning game developer.</h3>
 
@@ -16,10 +16,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar2021024" alt="devkumar2021024" /></a> </p>
 
 - 🌱 I’m currently working on my webpage "https://devkumar2021024.github.io/dev/"
-
 - 👨‍💻 All of my projects are available at [https://github.com/Devkumar2021024/]
-
 - 📫 How to reach me **kumarravi91158@gmail.com**
+   - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
   ### Connect with me:
   
