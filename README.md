@@ -1,7 +1,8 @@
 <div align = "center"> 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">   
+
 
 <div align = "center"> 
   
