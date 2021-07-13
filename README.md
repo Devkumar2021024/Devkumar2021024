@@ -1,6 +1,6 @@
 <div align = "center"> 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="470px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="465px"/>
    
    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="39px">   
 
