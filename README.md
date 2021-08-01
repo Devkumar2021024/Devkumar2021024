@@ -15,11 +15,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar2021024" alt="devkumar2021024" /></a> </p>
 
-- 🌱 I’m currently working on my webpage "https://devkumar2021024.github.io/dev/"
+- 🌱 I’m currently working on my webpage.
 - 👨‍💻 All of my projects are available at [https://github.com/Devkumar2021024/]
 - 📫 How to reach me **kumarravi91158@gmail.com**
-   - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-
+  
   ### Connect with me:
   
   <p align="center">
