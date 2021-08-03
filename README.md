@@ -1,6 +1,7 @@
 <div align = "center"> 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="465px"/>
+<img align="center" alt="GIF" src="https://camo.githubusercontent.com/1ddc5802f05c38d34da3b263d844d91e378f274542cfa6c23b56c5b5277293ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f736f757263652e676966" width="565px"/>
+
    
    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="39px">   
 
