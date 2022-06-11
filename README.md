@@ -30,7 +30,7 @@
     <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" 
     alt=“Aindrila twitter profile" height="30" width="30" hspace="20">
   </a>     
-    <a href="https://www.instagram.com/itisdev00/">
+    <a href="https://www.instagram.com/dev1174kumar/">
     <img align="center" width="28px" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=“Aindrila Instagram Profile" height="30" width="30" >
   </a>
 </p>
