@@ -1,47 +1,24 @@
-<div align = "center"> 
 
-<img align="center" alt="GIF" src="https://camo.githubusercontent.com/1ddc5802f05c38d34da3b263d844d91e378f274542cfa6c23b56c5b5277293ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f736f757263652e676966" width="565px"/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dev_gate_sap#1423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-kumar-0b59951b0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dev2021024) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dev-Kumar-3386) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dev_kumar_xxxxx) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dev-kumar-2021024) 
 
-   
-   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="39px">   
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=plastic&logo=unity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Devkumar2021024&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devkumar2021024&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkumar2021024&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Devkumar2021024&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align = "center"> 
-  
-  ### 𝐻𝑒𝓁𝓁𝑜 𝐸𝓋𝑒𝓇𝓎𝑜𝓃𝑒: </div>
-<h1 align="center">𝐇𝐢, I'm 𝓓𝓮𝓿 ,<"𝓦𝓮𝓵𝓬𝓸𝓶𝓮 to the 🅾🆃🅷🅴🆁 🆂🅸🅳🅴\n">;</h1>
-<h3 align="center"> 𝘼 𝙘𝙤𝙙𝙚𝙧 𝙖𝙣𝙙 𝙖 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar2021024&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar2021024" /> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Devkumar2021024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar2021024" alt="devkumar2021024" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Devkumar2021024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently working on my webpage.
-- 👨‍💻 All of my projects are available at [https://github.com/Devkumar2021024/]
-- 📫 How to reach me **kumarravi91158@gmail.com**
-  
-  ### Connect with me:
-  
-  <p align="center">
-  <a href="https://www.linkedin.com/in/dev-kumar-0b59951b0/">
-    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Aindrila linkdin profile" height="30" width="30">
-  </a>
-   <a href="https://twitter.com/Dev50194118">
-    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" 
-    alt=“Aindrila twitter profile" height="30" width="30" hspace="20">
-  </a>     
-    <a href="https://www.instagram.com/dev1174kumar/">
-    <img align="center" width="28px" img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt=“Aindrila Instagram Profile" height="30" width="30" >
-  </a>
-</p>
-  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkumar2021024&show_icons=true&locale=en&layout=compact" alt="devkumar2021024" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkumar2021024&show_icons=true&locale=en" alt="devkumar2021024" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkumar2021024&" alt="devkumar2021024" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
