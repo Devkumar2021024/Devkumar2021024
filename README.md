@@ -11,6 +11,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devkumar2021024&icon=4&color=6)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=Devkumar2021024)
 
